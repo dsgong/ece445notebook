@@ -214,6 +214,8 @@ Multiple modes of operation: i2c, i3c, spi 3 wire, spi 4 wire
 ### MT29F4G08ABBDAWP
 
 ![image info](./images/bma580.png)
+![image info](./images/nrf.png)
+![image info](./images/pmic.png)
 
 # Week of 2/18
 Weekly meeting with Chi Zhang at Tuesday 5:20-5:40
